@@ -1,6 +1,4 @@
-# HH API Testing Framework
-
-Production-ready фреймворк для автоматизации тестирования hh.ru API. Проектировался с фокусом на надежность, масштабируемость и поддерживаемость.
+# hh-api-tests
 
 [![CI Status](https://github.com/ssrjkk/hh-api-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/ssrjkk/hh-api-framework/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
