@@ -1,9 +1,9 @@
 # hh-api-tests By ssrjkk
 
-[![CI Status](https://github.com/ssrjkk/hh-api-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/ssrjkk/hh-api-framework/actions)
+[![CI Status](https://github.com/ssrjkk/hh-api-tests/actions/workflows/ci.yml/badge.svg)](https://github.com/ssrjkk/hh-api-tests/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://img.shields.io/badge/tests-31%20passed-brightgreen.svg)](https://github.com/ssrjkk/hh-api-framework/actions)
-[![Coverage](https://codecov.io/gh/ssrjkk/hh-api-framework/branch/main/graph/badge.svg)](https://codecov.io/gh/ssrjkk/hh-api-framework)
+[![Tests](https://img.shields.io/badge/tests-31%20passed-brightgreen.svg)](https://github.com/ssrjkk/hh-api-tests/actions)
+[![Coverage](https://codecov.io/gh/ssrjkk/hh-api-tests/branch/main/graph/badge.svg)](https://codecov.io/gh/ssrjkk/hh-api-tests)
 
 **31 тест** · **<0.5s полный прогон** · **99%+ стабильность** · **Docker/K8s ready**
 
@@ -150,8 +150,8 @@ docker run --rm hh-tests pytest tests/ -v
 | **Report** | Allure → GitHub Pages | Публичная история тестов |
 | **Coverage** | pytest-cov → Codecov | Отслеживание покрытия кода |
 
-Посмотреть CI: https://github.com/ssrjkk/hh-api-framework/actions  
-Allure отчеты: https://ssrjkk.github.io/hh-api-framework/allure/
+Посмотреть CI: https://github.com/ssrjkk/hh-api-tests/actions  
+Allure отчеты: https://ssrjkk.github.io/hh-api-tests/allure/
 
 ---
 
